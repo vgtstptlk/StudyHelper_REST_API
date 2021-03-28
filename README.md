@@ -6,3 +6,4 @@
 
 Ссылка на всю документацию: https://github.com/Crutches-Bicycles/StudyHelper (ветка master)
 
+Если вдруг хотите посмеяться с коммитов, можете посмотреть ветку develop_rest_api 
